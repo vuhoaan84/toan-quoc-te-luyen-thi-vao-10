@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Toán Quốc tế và Luyện thi vào 10</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f9f9f9;
+        }
+        header {
+            background: #007bff;
+            color: #fff;
+            padding: 20px 10px;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2.5em;
+        }
+        main {
+            padding: 20px;
+            max-width: 800px;
+            margin: 20px auto;
+            background: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h2 {
+            color: #007bff;
+        }
+        footer {
+            text-align: center;
+            padding: 10px;
+            background: #333;
+            color: #fff;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Toán Quốc tế và Luyện thi vào 10</h1>
+    </header>
+    <main>
+        <h2>Giới thiệu</h2>
+        <p>Cung cấp tài liệu, các khoá học, video bài giảng, giải đáp thắc mắc cho các kỳ thi toán quốc tế. Chúng tôi giúp học sinh chuẩn bị cho các kỳ thi như IKMC, ITMC, TIMO, HKIMO, FISO.</p>
+        
+        <h2>Tại sao nên tham gia các kỳ thi toán quốc tế?</h2>
+        <ul>
+            <li><strong>Phát triển tư duy và kỹ năng toán học:</strong> Giúp học sinh rèn luyện tư duy logic và phản biện.</li>
+            <li><strong>Cơ hội giao lưu và học hỏi:</strong> Giao lưu với bạn bè quốc tế và cải thiện khả năng ngoại ngữ.</li>
+            <li><strong>Mở rộng cơ hội học bổng:</strong> Thành tích xuất sắc giúp học sinh nhận được học bổng từ các tổ chức uy tín.</li>
+            <li><strong>Giải thưởng và công nhận:</strong> Các kỳ thi mang lại huy chương, giấy chứng nhận có giá trị cao.</li>
+        </ul>
+        
+        <h2>Liên hệ</h2>
+        <p>Để biết thêm chi tiết hoặc đăng ký khóa học, vui lòng liên hệ: <strong>email@example.com</strong></p>
+    </main>
+    <footer>
+        <p>&copy; 2025 Toán Quốc tế và Luyện thi vào 10. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
